@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add a "Save Recipe" button to recipes on your Ziplist-powered food blog, letting your readers easily make grocery lists and personal recipe boxes with BigOven.
+Add a "Save Recipe" button to recipes on your Ziplist-powered food blog.
 
 == Description ==
 
@@ -20,6 +20,8 @@ Add a "Save Recipe" button and grocery list features to your food blog. This plu
 
 * **Add to Grocery List**: Your readers can save your recipes and/or add the ingredients to their grocery list with a single click. Your readers can download the free BigOven app and carry your recipes and ideas with them. Links to your original recipes are always provided, giving you full credit for your original content.
 
+This plugin is designed specifically as an add-on to Ziplist.  Not using Ziplist?  Please use the full-featured BigOven recipe management plugin, found here: https://wordpress.org/plugins/bigoven-recipes-menus-and-more/
+
 == Installation ==
 
 The first version of this plugin is for those food bloggers who are keeping the Ziplist plugin live on their site, but want to add back the "Save Recipe" and mobile grocery list features back as easily as possible.  
@@ -30,7 +32,11 @@ This plugin doesn't change your data in any way, and no import or modification i
 
 = Does this do recipe markup? =
 
-No. We have more full-featured options that do.  Please see http://wordpress.bigoven.com.
+No. We have a more full-featured option that does.  Please see http://wordpress.bigoven.com.
+
+= Does this let me manage my recipes? =
+
+No.  We have a more full-featured option that does.  Please see http://wordpress.bigoven.com.
 
 = What formats does this support? = 
 
@@ -48,6 +54,9 @@ complete with a link back to your recipe.  Your recipes are, and will always be,
 3. Clicking the Save button launches a recipe clipper, letting your readers take your recipes (along with a link back) with them to the grocery store
 
 == Changelog ==
+= 1.0.82 = 
+* updates to readme 
+
 = 1.0.8 =
 * add icon
 
