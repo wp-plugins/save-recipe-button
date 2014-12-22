@@ -8,11 +8,11 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add back "save recipe" features to your Ziplist-powered blog with BigOven recipe services.  
+Add a "Save Recipe" button to recipes on your Ziplist-powered food blog, letting your readers easily make grocery lists and personal recipe boxes with BigOven.
 
 == Description ==
 
-This adds recipe box and grocery list features to your food blog, and is specially designed for bloggers who continue to use the Ziplist plugin, to add back "save recipe" features with BigOven servers instead.  (Ziplist announced the closure of their recipe box services on December 10, 2014.)
+Add a "Save Recipe" button and grocery list features to your food blog. This plugin is specially-designed for bloggers who have chosen to continue to use the Ziplist plugin, yet still want the benefits of "Save Recipe" and mobile grocery-list features. It adds back "save recipe" features using BigOven's popular recipe service instead.  (Ziplist announced the closure of their recipe box services on December 10, 2014.)  Features include:
 
 * Add a "Save Recipe" button to your recipes. 
 
@@ -48,10 +48,13 @@ complete with a link back to your recipe.  Your recipes are, and will always be,
 3. Clicking the Save button launches a recipe clipper, letting your readers take your recipes (along with a link back) with them to the grocery store
 
 == Changelog ==
+= 1.0.8 =
+* add icon
+
 = 1.0.7 = 
 * initial release
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.0.7 =
 Initial release.

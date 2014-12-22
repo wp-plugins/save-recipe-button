@@ -4,7 +4,7 @@
 Plugin Name: Save Recipe Button (BigOven)
 Plugin URI: http://www.bigoven.com/
 Description: Easily add "Save Recipe" and "Make Grocery List" features to your recipes.
-Version: 1.0.7.RC
+Version: 1.0.8
 Author: BigOven (c) 2014
 Author URI: http://www.bigoven.com/
 */
@@ -14,7 +14,7 @@ if(!defined('ABSPATH')) { exit; }
 // Plugin constants
 
 if(!defined('BO_INTEGRATION_VERSION')) {
-	define('BO_INTEGRATION_VERSION', '1.0.7');
+	define('BO_INTEGRATION_VERSION', '1.0.8');
 }
 
 if(!defined('BO_INTEGRATION_CACHE_PERIOD')) {
