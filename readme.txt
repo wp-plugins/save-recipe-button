@@ -3,7 +3,7 @@ Contributors: bigoven
 Donate link: http://wordpress.bigoven.com/
 Tags: recipe,hrecipe,ziplist,grocery,food,recipes
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,27 +12,37 @@ Add a "Save Recipe" button to recipes on your Ziplist-powered food blog.
 
 == Description ==
 
-Add a "Save Recipe" button and grocery list features to your food blog. This plugin is specially-designed for bloggers who have chosen to continue to use the Ziplist plugin, yet still want the benefits of "Save Recipe" and mobile grocery-list features. It adds back "save recipe" features using BigOven's popular recipe service instead.  (Ziplist announced the closure of their recipe box services on December 10, 2014.)  Features include:
+Many food bloggers have used Ziplist in the past to deliver "recipe box" and "grocery list" features to their site. In December 2014, Ziplist announced the closure of that feature.
 
-* Add a "Save Recipe" button to your recipes. 
+This plugin adds it back, using the popular BigOven recipe and grocery list platform. BigOven is a leading recipe app with over 11 million downloads. It's free to use. This plugin
+simply adds the "Save Recipe" button back to your Ziplist-powered blog, letting your readers save recipes for later (preserving a link to your original recipe).  They can also 
+add recipes to a grocery list and carry it with them. It's free and easy to test out.  
+
+In 2015 and beyond, BigOven will be highlighting recipes found by readers from around the web, and featuring those recipes in the apps with direct links. By adding the "Save Recipe"
+feature to your blog, you're eligible for free, branded exposure to millions of additional home cooks.
+
+This plugin:
+
+* Adds a "Save Recipe" button to your Ziplist-formatted recipes. 
 
 * Relies upon BigOven services, which are free. Your readers can save recipes, make a grocery list, resize recipes up or down and much more.  Users must create a free account with BigOven to save recipes or add items to their grocery list.
 
 * **Add to Grocery List**: Your readers can save your recipes and/or add the ingredients to their grocery list with a single click. Your readers can download the free BigOven app and carry your recipes and ideas with them. Links to your original recipes are always provided, giving you full credit for your original content.
 
-This plugin is designed specifically as an add-on to Ziplist.  Not using Ziplist?  Please use the full-featured BigOven recipe management plugin, found here: https://wordpress.org/plugins/bigoven-recipes-menus-and-more/
+This plugin is designed specifically as an add-on to Ziplist.  Not using Ziplist?  No problem, we have great other options!  Please see the other ways to get the "Save Recipe" button
+on your blog here:  http://wordpress.bigoven.com
 
 == Installation ==
 
-The first version of this plugin is for those food bloggers who are keeping the Ziplist plugin live on their site, but want to add back the "Save Recipe" and mobile grocery list features back as easily as possible.  
-
-This plugin doesn't change your data in any way, and no import or modification is done.  Prior and future posts will be updated with the new Save Recipe button, that's it!  It couldn't be easier, and it's free.
+This plugin assumes you've got the Ziplist plugin installed and are using it to render your recipes. Simply install the BigOven Save Recipe plugin and activate it. That's it! You'll see 
+a "Save" button right next to the "Print" button in each of your recipes.  Clicking this "Save" button will launch the recipe clipper.  (Known issue:  If you happen to have more than one 
+Ziplist-formatted recipe on a given URL, in this release, the clipper will only grab the first one.  In a future update, it'll support multiple Ziplist-formatted recipes per page.)
 
 == Frequently Asked Questions ==
 
 = Does this do recipe markup? =
 
-No. We have a more full-featured option that does.  Please see http://wordpress.bigoven.com.
+No, it relies upon the Ziplist plugin for this. We have a more full-featured option that does.  Please see http://wordpress.bigoven.com.
 
 = Does this let me manage my recipes? =
 
@@ -54,6 +64,9 @@ complete with a link back to your recipe.  Your recipes are, and will always be,
 3. Clicking the Save button launches a recipe clipper, letting your readers take your recipes (along with a link back) with them to the grocery store
 
 == Changelog ==
+= 1.0.83 = 
+* clarifications to readme
+
 = 1.0.82 = 
 * updates to readme 
 
